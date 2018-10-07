@@ -1,0 +1,28 @@
+body {
+  background: #DBEDFF
+}
+
+h1 {
+	color: black;
+	font-size: 600%;
+	text-align: center;
+	text-shadow:
+		-1px -1px 0 white,
+		1px -1px 0 white,
+		-1px 1px 0 white,
+		1px 1px 0 white;
+	padding: 10px;
+}
+
+.tweet {
+	background-color: white;
+  width: 550px;
+  height: 40px;
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 20px;
+  padding-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+}
